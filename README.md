@@ -15,4 +15,6 @@ The application includes several features to facilitate the user's experience su
 * Bootstrap
 ------------------
 ## Screenshots of the app
-![my_app1](https://user-images.githubusercontent.com/75336351/220437190-01d72db8-bf43-479e-b9e3-512f2435d025.jpg)
+![my_app1](https://user-images.githubusercontent.com/75336351/220438835-0edbf77c-502d-4ce8-ac2e-ce7c133d6bfd.jpg)
+![my_app2](https://user-images.githubusercontent.com/75336351/220438848-ed2a9ba5-3eaa-4123-8968-8a6a924c6cf8.jpg)
+![my_app3](https://user-images.githubusercontent.com/75336351/220438857-ddcd137f-7619-4ba4-a035-3b3e2bef48b8.jpg)
