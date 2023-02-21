@@ -14,4 +14,5 @@ The application includes several features to facilitate the user's experience su
 * CSS
 * Bootstrap
 ------------------
-## Installation
+## Screenshots of the app
+![my_app1](https://user-images.githubusercontent.com/75336351/220437190-01d72db8-bf43-479e-b9e3-512f2435d025.jpg)
