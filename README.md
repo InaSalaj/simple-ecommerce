@@ -1,5 +1,5 @@
 # simple-ecommerce
-
+------------------
 This is a web application built using the Django web framework with Python, Javascript, HTML, CSS, and Bootstrap. The aim of this project is to provide users with a simple and intuitive interface to browse and purchase various products.
 
 ##Functionality
