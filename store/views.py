@@ -25,7 +25,7 @@ def cart(request):
 	return render(request, 'store/cart.html', context)
 
 def checkout(request):
-
+	#cerating checkoout
 	data = cartData(request)
 	cartItems = data['cartItems']
 	order = data['order']
